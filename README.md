@@ -81,9 +81,9 @@ An open-source tool based on **Python** and **PySimpleGUI**, enabling rapid deve
    python .\main.py -d
    ```
 4. 修改代码 / Modify Code：
-   本项目只提供最基本的 UI 及逻辑演示，修改 `MainGUI.py` 体验，后续扩展请根据自身需求，分离 UI、业务逻辑。
+   本项目只提供最基本的 UI 及逻辑演示，修改 `MainGUI.py` 体验，后续扩展请根据自身需求，分离 UI、业务逻辑（⚠️代码使用到的库均需在main.py导入）。
    
-   This project provides only a basic UI and logic demo. Modify `MainGUI.py` to explore, and extend further based on your needs by separating UI and business logic.
+   This project provides only a basic UI and logic demo. Modify `MainGUI.py` to explore, and extend further based on your needs by separating UI and business logic（⚠️All libraries used in the code need to be imported in main.py）.
 
 ## 使用方法 / Usage
 
