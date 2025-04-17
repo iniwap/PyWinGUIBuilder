@@ -2,15 +2,19 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.60.5+-red) ![pyinstaller](https://img.shields.io/badge/pyinstaller-5.13.0+-pink) ![HM NIS Edit](https://img.shields.io/badge/HM_NIS_Edit-2.0.3+-green) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Stars](https://img.shields.io/github/stars/iniwap/PyWinGUIBuilder?label=收藏)
 
+**中文**：  
+一个基于 **Python** 和 **PySimpleGUI** 的开源工具，快速打造 Windows GUI 软件（EXE），一键生成安装程序，让开发者专注于 UI 设计和业务逻辑。  
+
+**English**:  
+An open-source tool based on **Python** and **PySimpleGUI**, enabling rapid development of Windows GUI software (EXE) with one-click installer generation, allowing developers to focus on UI design and business logic.  
+
 ## 项目简介 / Project Introduction
 
 **中文**：  
-一个基于 **Python** 和 **PySimpleGUI** 的开源工具，快速打造 Windows GUI 软件（EXE），一键生成安装程序，让开发者专注于 UI 设计和业务逻辑。  
 **PyWinGUIBuilder** 是一个简单强大的工具，帮助开发者快速创建 Windows GUI 应用程序。基于 **PySimpleGUI** 提供直观的 UI 框架，集成一键生成 EXE 和安装程序的功能，适合初学者和快速原型开发。  
 🌟**欢迎 Fork 和 Star！** 适合 Python 开发者、Windows 软件开发者和 PySimpleGUI 爱好者。
 
 **English**:  
-An open-source tool based on **Python** and **PySimpleGUI**, enabling rapid development of Windows GUI software (EXE) with one-click installer generation, allowing developers to focus on UI design and business logic.  
 **PyWinGUIBuilder** is a simple yet powerful tool that helps developers quickly create Windows GUI applications. Built on **PySimpleGUI** for an intuitive UI framework, it integrates one-click EXE and installer generation, ideal for beginners and rapid prototyping.  
 🌟**Welcome to Fork and Star!** Perfect for Python developers, Windows app creators, and PySimpleGUI enthusiasts.
 
