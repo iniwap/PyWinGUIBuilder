@@ -138,8 +138,8 @@ English:
 
 中文：
 - 商业用途需获得作者的明确授权。如需将本项目用于商业目的，请联系作者 iniwap。
-  - 联系方式：邮箱 [iniwaper@gmail.com] 或 GitHub [https://github.com/iniwap]。
+  - 联系方式：邮箱 iniwaper@gmail.com 或 GitHub https://github.com/iniwap 。
 - 不得移除或修改本项目中的署名、联系方式及 GitHub 链接信息，包括但不限于 README 和 LICENSE 文件中的作者信息。
-- 未经作者书面同意，任何未经授权的商业用途或移除署名及联系信息的举动均视为违反本许可证。
+- 未经作者同意，任何未经授权的商业用途或移除署名及联系信息的举动均视为违反本许可证。
 
 详情请查看 LICENSE 文件。
