@@ -83,8 +83,6 @@ class MainGUI(object):
             print(event)
             if event == sg.WIN_CLOSED:  # always,  always give a way out!
                 break
-            elif event == "选择原始数据":
-                self.convert_attendance_data()
             elif event == "-LOGIN_BTN-":
                 sg.popup(
                     "登录成功！",
