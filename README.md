@@ -74,7 +74,7 @@ An open-source tool based on **Python** and **PySimpleGUI**, enabling rapid deve
 2. 安装依赖 / Install dependencies：
    ```bash
    pip install --upgrade pyinstaller
-   
+   pip install PySimpleGUI-4.60.5-py3-none-any.whl
    pip install -r requirements.txt
    ```
 3. 运行示例 / Run example：
