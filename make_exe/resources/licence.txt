@@ -1,0 +1,35 @@
+﻿MIT License
+
+Copyright (c) 2025 iniwap
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Additional Terms / 附加条款:
+
+English:
+- Commercial use requires explicit authorization from the author. If you intend to use this project for commercial purposes, please contact the author iniwap.
+  - Contact: Email [iniwaper@gmail.com] or GitHub [https://github.com/iniwap].
+- You must not remove or modify the attribution, contact information, or GitHub link provided in this project, including but not limited to the author information in the README and LICENSE files.
+- Any unauthorized commercial use or removal of attribution and contact information without the author's written consent will be considered a violation of this license.
+
+中文：
+- 商业用途需获得作者的明确授权。如需将本项目用于商业目的，请联系作者 iniwap。
+  - 联系方式：邮箱 [iniwaper@gmail.com] 或 GitHub [https://github.com/iniwap]。
+- 不得移除或修改本项目中的署名、联系方式及 GitHub 链接信息，包括但不限于 README 和 LICENSE 文件中的作者信息。
+- 未经作者书面同意，任何未经授权的商业用途或移除署名及联系信息的举动均视为违反本许可证。
